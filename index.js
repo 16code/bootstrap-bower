@@ -1,2 +1,2 @@
-require('./ui-bootstrap-tpls');
+require('./ui-bootstrap');
 module.exports = 'ui.bootstrap';
