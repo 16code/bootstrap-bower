@@ -6,7 +6,7 @@
   "homepage": "http://angular-ui.github.io/bootstrap/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/bootstrap.git"
+    "url": "https://github.com/16code/bootstrap-bower.git"
   },
   "keywords": [
     "angular",
